@@ -1,7 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Fabian+Nierop" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hello+world+%F0%9F%91%8B;I'm+Fabian+Nierop" alt="Typing SVG" /></a>
 <h3 align="center">A passionate data-engineering student from The Netherlands</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lythical1&label=Profile%20views&color=0e75b6&style=flat" alt="lythical1" /> </p>
 
 - 🌱 I’m currently learning **python and power bi**
 
@@ -21,3 +19,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lythical1&label=Profile%20views&color=0e75b6&style=flat" alt="lythical1" /> </p>
