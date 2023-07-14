@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg" allign="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hello+world+%F0%9F%91%8B;I'm+Fabian+Nierop" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hello+world+%F0%9F%91%8B;I'm+Fabian+Nierop" alt="Typing SVG" /></a>
 
 
 <h3 align="center">A passionate data-engineering student from The Netherlands</h3>
