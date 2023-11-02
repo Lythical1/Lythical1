@@ -1,11 +1,13 @@
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hello+world+%F0%9F%91%8B;I'm+Fabian+Nierop" alt="Typing SVG" /></a>
 
 
-<h3 align="center">A passionate data-engineering student from The Netherlands</h3>
+<h3 align="center">A passionate Back End developer student from The Netherlands</h3>
 
-- 🌱 I’m currently learning **python and power bi**
+- 🌱 I’m currently learning **PHP**
 
-- 📫 How to reach me **nierop.fabian@gmail.com**
+- 📫 How to reach me **
+<a href="mailto:nierop.fabian@gmail.com, lythical18@gmail.com">link text</a>
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
