@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 📫 How to reach me **
-<a href="mailto:nierop.fabian@gmail.com, lythical18@gmail.com">Email</a>
-**
+- 📫 How to reach me <a href="mailto:nierop.fabian@gmail.com, lythical18@gmail.com">Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
