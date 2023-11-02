@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 📫 How to reach me <a href="mailto:nierop.fabian@gmail.com, lythical18@gmail.com">Email</a>
+- 📫 How to reach me <a href="mailto:nierop.fabian@gmail.com">Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/fabian-nierop-563668283/">LinkedIn</a>
@@ -19,7 +19,7 @@
 <h4 align="left">Currently learning:</h4>
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
 </p>
 
 
