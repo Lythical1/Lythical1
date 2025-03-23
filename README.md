@@ -9,8 +9,7 @@
 </h3>
 
 <p align="center">
-  🚀 Enthusiastic about building scalable & efficient back-end systems. <br>
-  🌱 Currently learning <b>React, Python</b> and <b>Flask</b>.
+  🚀 Enthusiastic about building scalable & efficient back-end systems.
 </p>
 
 ---
