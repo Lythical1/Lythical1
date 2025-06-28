@@ -41,7 +41,7 @@
 <div align="center";">
   <div>
     <h3>🚀 Top Languages:</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lythical1&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lythical1&theme=radical" alt="Top Languages" width="400"/>
   </div>
   <div>
     <h3>📊 GitHub Stats:</h3>
